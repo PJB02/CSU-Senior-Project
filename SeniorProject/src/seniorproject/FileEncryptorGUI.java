@@ -2,6 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
+//Student Name: Jacob Braddock
+//Program Name: File Encryptor
+//Creation Date: December 20th, 2024
+//Last Modified Date: April 19th, 225
+//CSCI Course:  499
+//Grade Received:  100
+//Design Comments: This is a file encryptor that is used to encrypt and decrypt files
 package seniorproject;
 
 /**
